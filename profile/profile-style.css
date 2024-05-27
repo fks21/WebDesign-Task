@@ -1,0 +1,22 @@
+@charset "utf-8";
+.skyblue {
+    background-color: skyblue;
+}
+.orange {
+    background-color: orange;
+}
+.back {
+    background-color: black;
+}
+#white {
+    color: white;
+}
+.yu {
+    font-family: "游ゴシック";
+}
+span {
+    color: olive;
+}
+.white2 {
+    color: white;
+}
